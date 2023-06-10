@@ -1,6 +1,7 @@
 # Two-Pointer-Basic-Algorithm
 
 Aslamualaikum Friends,
+
 -> Welcome to the Two Pointer Course Overview! In this course, we will
    explore the concept of the Two Pointer technique, a powerful algorithmic
    approach used in various programming problems. The Two Pointer technique 
