@@ -37,6 +37,7 @@ void solved(int a[],int n,int x)
     }
     if(flag==0) cout<<"Not Found"<<endl;
 }
+
 int main()
 {
     int n;
@@ -44,9 +45,11 @@ int main()
     int a[n+1];
     //Input a array:
     for(int i=0; i<n; i++)cin>>a[i];
+    // sorted array
     sort(a,a+n);
     int x;
     cin>>x;
+  // function called
     solved(a,n,x);
     return 0;
 }
