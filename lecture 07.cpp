@@ -34,6 +34,7 @@ void solved(int a[],int n)
     }
     if(flag==0) cout<<"Not Found"<<endl;
 }
+
 int main()
 {
     int n;
@@ -47,7 +48,6 @@ int main()
     reverse(a,a+n);
     //call the function:
     solved(a,n);
-
 
     return 0;
 }
