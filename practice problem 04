@@ -36,7 +36,7 @@ using namespace std;
 const long long MOD = 1e9 + 7;
 /*  let's started  */
 void solved()
-{
+{ 
     test()
     {
         string s;
