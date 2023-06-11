@@ -9,6 +9,7 @@ Today Topic:  Find all triplets with zero sum .
 
 #include<bits/stdc++.h>
 using namespace std;
+
 /* Function Implement */
 /** Time complexity->( n^3 ) **/
 /*void solved(int a[],int n)
@@ -27,7 +28,6 @@ using namespace std;
     }
   }
 }*/
-
 /** Time complexity->( n^2 ) **/
 void solved(int a[],int n)
 {
