@@ -4,7 +4,7 @@
 
 /**
 Today Topic:  Find a triplet that sum to a given value .
-              Using Two Pointer ( C++ )
+              Using Two Pointer in ( C++ )
 **/
 
 #include<bits/stdc++.h>
